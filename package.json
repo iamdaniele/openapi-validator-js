@@ -1,5 +1,5 @@
 {
-  "name": "express-openapi-validator",
+  "name": "openapi-validator-js",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
